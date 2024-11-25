@@ -3,3 +3,6 @@ local_config/
 # también ignoramos los archivos:
 *.tmp
 *.env
+# también ignorar 
+configuración2.ini
+
